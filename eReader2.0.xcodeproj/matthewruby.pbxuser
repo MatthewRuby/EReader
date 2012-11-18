@@ -1,0 +1,217 @@
+// !$*UTF8*$!
+{
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E815C73F130717D60090D3E4 /* emptyExample */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* emptyExample */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* emptyExample */,
+		);
+		codeSenseManager = E815C766130717EC0090D3E4 /* Code sense */;
+		executables = (
+			E815C73F130717D60090D3E4 /* emptyExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					970,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323159762;
+			PBXWorkspaceStateSaveDate = 323159762;
+		};
+		perUserProjectItems = {
+			E81DA2D513085B9300090395 /* PBXTextBookmark */ = E81DA2D513085B9300090395 /* PBXTextBookmark */;
+			E826AA69132698A7008909EA /* PBXTextBookmark */ = E826AA69132698A7008909EA /* PBXTextBookmark */;
+			E885B4CC132703D400CF07E2 /* PBXTextBookmark */ = E885B4CC132703D400CF07E2 /* PBXTextBookmark */;
+			E8B4110C1343074B00BBC81C /* PBXTextBookmark */ = E8B4110C1343074B00BBC81C /* PBXTextBookmark */;
+			E8B4110D1343074B00BBC81C /* PBXTextBookmark */ = E8B4110D1343074B00BBC81C /* PBXTextBookmark */;
+			E8B4110E1343074B00BBC81C /* PBXTextBookmark */ = E8B4110E1343074B00BBC81C /* PBXTextBookmark */;
+			E8E7E1A31326D99200AC1D03 /* PBXTextBookmark */ = E8E7E1A31326D99200AC1D03 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E815C765130717EC0090D3E4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* emptyExample */ = {
+		activeExec = 0;
+		executables = (
+			E815C73F130717D60090D3E4 /* emptyExample */,
+		);
+	};
+	E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1148, 891}}";
+			sepNavSelRange = "{417, 0}";
+			sepNavVisRange = "{0, 417}";
+		};
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1148, 2054}}";
+			sepNavSelRange = "{878, 0}";
+			sepNavVisRange = "{725, 1229}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1148, 891}}";
+			sepNavSelRange = "{659, 0}";
+			sepNavVisRange = "{0, 660}";
+		};
+	};
+	E815C73F130717D60090D3E4 /* emptyExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = emptyExample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	E815C765130717EC0090D3E4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E815C766130717EC0090D3E4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E81DA2D513085B9300090395 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E81DA2D613085B9300090395 /* basic_string.h */;
+		name = "basic_string.h: 2449";
+		rLen = 50;
+		rLoc = 91642;
+		rType = 0;
+		vrLen = 2627;
+		vrLoc = 89524;
+	};
+	E81DA2D613085B9300090395 /* basic_string.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = basic_string.h;
+		path = "/usr/include/c++/4.2.1/bits/basic_string.h";
+		sourceTree = "<absolute>";
+	};
+	E826AA69132698A7008909EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E826AA6A132698A7008909EA /* istream */;
+		name = "istream: 420";
+		rLen = 0;
+		rLoc = 14384;
+		rType = 0;
+		vrLen = 2650;
+		vrLoc = 13097;
+	};
+	E826AA6A132698A7008909EA /* istream */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.h;
+		name = istream;
+		path = "/usr/include/c++/4.2.1/istream";
+		sourceTree = "<absolute>";
+	};
+	E885B4CC132703D400CF07E2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 34";
+		rLen = 0;
+		rLoc = 659;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 0;
+	};
+	E8B4110C1343074B00BBC81C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 45";
+		rLen = 0;
+		rLoc = 878;
+		rType = 0;
+		vrLen = 1229;
+		vrLoc = 725;
+	};
+	E8B4110D1343074B00BBC81C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */;
+		name = "main.cpp: 9";
+		rLen = 0;
+		rLoc = 235;
+		rType = 0;
+		vrLen = 414;
+		vrLoc = 0;
+	};
+	E8B4110E1343074B00BBC81C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */;
+		name = "main.cpp: 16";
+		rLen = 0;
+		rLoc = 417;
+		rType = 0;
+		vrLen = 417;
+		vrLoc = 0;
+	};
+	E8E7E1A31326D99200AC1D03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E8E7E1A41326D99200AC1D03 /* types.h */;
+		name = "types.h: 230";
+		rLen = 0;
+		rLoc = 7009;
+		rType = 0;
+		vrLen = 1609;
+		vrLoc = 5989;
+	};
+	E8E7E1A41326D99200AC1D03 /* types.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = types.h;
+		path = /usr/include/sys/types.h;
+		sourceTree = "<absolute>";
+	};
+}
